@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleWedScrapper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7461245b4acd83bae34b2c95c5d20ba58f4aa792")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05d69ef2d4ea6ad6ab420e5ce20e24957bf00cee")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleWedScrapper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleWedScrapper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
